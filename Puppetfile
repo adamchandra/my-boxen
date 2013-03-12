@@ -33,3 +33,11 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "emacs",     "1.0.0"
+github "java",      "1.0.6"
+github "tmux",      "1.0.1"
+github "dropbox",   "1.0.0"
+
+# github "mongodb",   "1.0.0"
+# github "zsh",   "1.0.0"
+# github "spotify",   "1.0.0"
