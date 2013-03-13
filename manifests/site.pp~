@@ -72,13 +72,6 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
-  include emacs
-  include java
-  include tmux
-  include dropbox
-  include zsh
-  include spotify
-
   # common, useful packages
   package {
     [
