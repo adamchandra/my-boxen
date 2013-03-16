@@ -76,7 +76,6 @@ node default {
   include java
   include tmux
   include dropbox
-  include zsh
   include spotify
   include skype
 
