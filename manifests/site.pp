@@ -75,9 +75,10 @@ node default {
   include emacs
   include java
   include tmux
-  # include dropbox
-  # include zsh
-  # include spotify
+  include dropbox
+  include zsh
+  include spotify
+  include skype
 
   # common, useful packages
   package {
